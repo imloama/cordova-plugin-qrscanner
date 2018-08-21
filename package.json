@@ -1,6 +1,6 @@
 {
   "name": "firefly-cordova-plugin-qrscanner",
-  "version": "2.5.1",
+  "version": "2.5.2",
   "description": "Fast, energy-efficient, highly-configurable QR code scanner.",
   "cordova": {
     "id": "firefly-cordova-plugin-qrscanner",
